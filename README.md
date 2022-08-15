@@ -9,7 +9,7 @@
 <div align="center" ><br >
   <img aling="center" alt="Dart" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img aling="center" alt="Flutter" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img aling="center" alt="C-Sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />         
+<!<img aling="center" alt="C-Sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />         
  
  
 </div>
